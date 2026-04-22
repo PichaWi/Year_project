@@ -1,9 +1,9 @@
-# YOUR_PROJECT_NAME
+# Echo Knight
 
 ## Project Description
 
-- Project by: John Farmer
-- Game Genre: Action, Puzzle
+- Project by: Picha Wiwattanawongsa
+- Game Genre: Action, Side scrolling
 
 You contents here
 
@@ -12,7 +12,7 @@ You contents here
 ## Installation
 To Clone this project:
 ```sh
-git clone https://github.com/<username>/<project-name>.git
+git clone https://github.com/PichaWi/Year_project.git
 ```
 
 To create and run Python Environment for This project:
@@ -70,7 +70,7 @@ You contents here (incase you finish all of your task please identify)
 
 ## External sources
 Acknowledge to:
-1. Firing bullets code, http://examplesource.com [game source 
-code]
-2. Character animation, http://examplesource.com [game source code]
-3. ILoveTAs, thanksTA.net [game background music]
+1. 
+code
+2. 
+3.

@@ -4,6 +4,7 @@
 Provide a high-level understanding of the project.
 
 - **Project Name:**  
+  Echo Knight
 - **Brief Description:**  
   Write 1–2 paragraphs explaining what the project is and how it works.
 
